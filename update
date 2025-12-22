@@ -1,0 +1,13 @@
+{
+  "updateRequired": 0,
+  "isFestival": true,
+  "groupOf8": true,
+  "isDirectStart": true,
+  "isLobbyGroup": true,
+  "checkPlayIntegrity": false,
+  "underMaintenance": {
+    "currentStatus": false,
+    "upcomingStatus": false,
+    "message": "New v1.2.5 is Live, Update Now!"
+  }
+}
